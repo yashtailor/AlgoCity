@@ -63,3 +63,10 @@ max val:9
 3 4
 
 */
+
+/*
+
+Time Complexity - O(number_of_items*tot_weight)
+Space Complexity - O(number_of_items*tot_weight)
+
+*/
