@@ -6,3 +6,4 @@ Algos added till now:
 - subset-sum problem
 - longest pallindrome subsequence (LPS)
 - Weighted Job Scheduling (Max Profit)
+- Longest Common Subsequene (LCS)
