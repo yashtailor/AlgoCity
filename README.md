@@ -5,3 +5,4 @@ Algos added till now:
 - 0/1 knapsack problem
 - subset-sum problem
 - longest pallindrome subsequence (LPS)
+- Weighted Job Scheduling (Max Profit)
