@@ -7,3 +7,4 @@ Algos added till now:
 - longest pallindrome subsequence (LPS)
 - Weighted Job Scheduling (Max Profit)
 - Longest Common Subsequene (LCS)
+- Longest Increasing Subsequence (LIS)
