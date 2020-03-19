@@ -36,3 +36,17 @@ while(i!=0 || j!=0){
     else i-=1;
 }
 }
+
+
+/*
+
+TC - O(N*M)
+SC - O(N*M)
+
+OUTPUT:
+abccdde
+accde
+THE LENGTH OF LCS:5
+e d c c a
+
+*/
