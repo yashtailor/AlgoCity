@@ -39,3 +39,9 @@ int main(){
 TC-O(N*M)
 SC-O(N*M)
 */
+
+/*
+In case of obstacle,we can check if
+current element has obstacle than set a[i][j]=0;
+*/
+*/
