@@ -8,3 +8,4 @@ Algos added till now:
 - Weighted Job Scheduling (Max Profit)
 - Longest Common Subsequene (LCS)
 - Longest Increasing Subsequence (LIS)
+- Longest Pallindromic Substring
