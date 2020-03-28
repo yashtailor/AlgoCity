@@ -10,3 +10,4 @@ Algos added till now:
 - Longest Increasing Subsequence (LIS)
 - Longest Pallindromic Substring
 - Number Of Paths (Right+Down from (1,1)->(n,m))
+- Min Path Sum
